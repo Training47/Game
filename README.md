@@ -1,5 +1,4 @@
-# html-starter
-A starter package for basic HTML projects
+# Minesweeper game project
 
 ```sh
 cd /var/www
