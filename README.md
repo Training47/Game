@@ -1,4 +1,6 @@
-# Minesweeper game project
+# Minesweeper Game Project
+
+To view the game and play: https://training47.github.io/game/
 
 ```sh
 cd /var/www
