@@ -1,4 +1,4 @@
-# Minesweeper Game Project
+# Bombardment Game Project
 
 To view the game and play: https://training47.github.io/game/
 
